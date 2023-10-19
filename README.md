@@ -7,3 +7,15 @@
 * a function displayCharacterNames() is created to take characters received from the server to:
    create a list item element update properties of each character
    add an event listener to a button with the ID 'btnResetVotes'
+  # The link to the project webpage
+   https://main--moonlit-basbousa-7ffe4d.netlify.app/#
+   # Technology used
+   *Javascript
+   *Git
+   *json server
+
+# Licence
+*Mit license
+
+# Author info
+[Raymond Mwaiki]
