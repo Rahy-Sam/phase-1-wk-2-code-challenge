@@ -22,6 +22,7 @@ body {
     border-radius: 50px; 
     /* padding: 20px; */
     background-color: white;
+    text-align: center;
   }
   
   /* Removes the bullet points in the list */
@@ -47,3 +48,5 @@ body {
     border: 2px solid #dac0a7;
     border-radius: 10px;
   }
+
+  body {background-color: aqua;}
